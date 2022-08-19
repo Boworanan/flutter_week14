@@ -7,7 +7,7 @@ class ContactPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Contact"),
+        title: Text("MyApp"),
       ),
       body: Center(
         child: Text("Contact App"),
